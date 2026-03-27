@@ -40,11 +40,11 @@
 
 ### 🔗 快速链接
 [![GitHub](https://img.shields.io/badge/GitHub-Ryan--1125-121011?style=flat&logo=github)](https://github.com/Ryan-1125)
-[![Blog](https://img.shields.io/badge/Blog-blogs.papership.top-0088cc?style=flat&logo=ghost)](https://blogs.papership.top)
-[![Notes](https://img.shields.io/badge/Notes-notes.papership.top-6366f1?style=flat&logo=notion)](https://notes.papership.top)
-[![Homepage](https://img.shields.io/badge/Homepage-papership.top-ec4899?style=flat&logo=homepage)](https://papership.top)
-[![Bilibili](https://img.shields.io/badge/Bilibili-纸船-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/510746790?spm_id_from=333.1007.0.0)
-[![网易云音乐](https://img.shields.io/badge/网易云音乐-纸船-C10E0E?style=flat&logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=1606919932)
+[![Homepage](https://img.shields.io/badge/Homepage-papership-ec4899?style=flat)](https://papership.top)
+[![Blog](https://img.shields.io/badge/Blog-blogs.papership-0088cc?style=flat)](https://blogs.papership.top)
+[![Notes](https://img.shields.io/badge/Notes-notes.papership-6366f1?style=flat)](https://notes.papership.top)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Ryan-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/510746790?spm_id_from=333.1007.0.0)
+[![网易云音乐](https://img.shields.io/badge/CloudMusic-Ryan-C10E0E?style=flat&logo=neteasecloudmusic)](https://music.163.com/#/user/home?id=1606919932)
 
 ---
 
@@ -53,7 +53,3 @@
 - 完善个人站点生态，打造更流畅的体验
 - 用更多旅行与文字，填满「纸船邮局」
 - 持续输出有价值的技术内容与生活感悟
-
----
-
-你要我帮你把 Bilibili 和网易云音乐的链接直接替换成你的真实地址吗？
