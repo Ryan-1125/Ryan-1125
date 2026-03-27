@@ -6,16 +6,13 @@
 ---
 
 ### 👨‍💻 关于我
+
+`🌱Born 2006-11-25` | `📍China / Guangdong`
 - 🎓 **软件工程专业**大二在读，深耕软件工程与全栈开发领域
 - 🔭 目前在维护个人站点生态：博客、笔记、照片墙
 - 🌱 正在学习：软件工程理论、前端框架（Astro/Svelte）、后端开发
 - 🤝 开放合作：欢迎交流技术、旅行、写作相关的有趣项目
-- 📫 联系方式：[GitHub@Ryan-1125](https://github.com/Ryan-1125) | [个人主页](https://papership.top)
-
----
-
-### 🌿 基础信息
-🌱 Born 2005-10-07 | 📍 Across China / Remote
+- 📫 联系方式：[Gmail](https://ryan411925@gmail.com)
 
 ---
 
